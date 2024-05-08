@@ -1,3 +1,7 @@
+// 1
+// 2 2 
+// 3 3 3
+
 void triangle(int n) {
 	// Write your code here
 	for (int i = 1; i <= n; i++) {
