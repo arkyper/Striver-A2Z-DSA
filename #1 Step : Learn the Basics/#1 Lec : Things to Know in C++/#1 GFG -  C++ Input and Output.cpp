@@ -1,3 +1,14 @@
+// Given two integers A and B. Your task is to return their product.
+
+// Example 1:
+// Input:
+// A = 1, B = 2
+// Output:
+// 2
+// Explanation:
+// Multiplication of 1 and 2 is 2.
+
+
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
 using namespace std; 
